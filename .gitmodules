@@ -1,0 +1,3 @@
+[submodule "rack"]
+  path = _theme_packages/hooligan
+  url = https://github.com/dhulihan/hooligan.git
