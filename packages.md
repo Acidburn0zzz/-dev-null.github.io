@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Packages"
+tagline: "for Zaurus"
 description: "OpenBSD packages for Zaurus"
 ---
 {% include JB/setup %}
