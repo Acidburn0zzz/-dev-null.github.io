@@ -21,8 +21,8 @@ Here's a sample "posts list".
 
 ## To-Do
 
-Create an actual front page.
+<ol>
+<li>Create an actual front page.</li>
+<li>Do something with this site.</li>
+</ol>
 
-Do something with this site.
-
-Get the site to deploy.
