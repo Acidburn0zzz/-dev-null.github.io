@@ -1,3 +1,5 @@
+# FileSet based on:
+#
 # ImageSet Liquid Plugin
 # by Erik Dungan
 # erik.dungan@gmail.com / @callmeed
@@ -21,7 +23,7 @@
 
 
 module Jekyll
-  class ImageSet < Liquid::Tag
+  class FileSet < Liquid::Tag
     @path = nil
 
     @class = nil
@@ -37,11 +39,11 @@ module Jekyll
       @path = text.split(/\s+/)[0].strip
 
       # Defaults
-      @class = 'image'
-      @wrap_class = 'image-item'
+      @class = 'file'
+      @wrap_class = 'file-item'
       @wrap_tag = 'li'
       @container_tag = 'ul'
-      @container_class = 'image-set'
+      @container_class = 'file-set'
 
       # Parse Options
       if text =~ /--class=(\S+)/i
@@ -65,15 +67,15 @@ module Jekyll
     def render(context)
       # Get the full path to the dir
       # Include a filter for JPG and PNG images
-      full_path = File.join(context.registers[:site].config['source'], @path, "*.{jpg,jpeg,JPG,JPEG,png,PNG}")
+      full_path = File.join(context.registers[:site].config['source'], @path, "*.*")
       # Start building tags
-      source = "<#{@container_tag} class'#{@container_class}'>\n"
+      source = "<#{@container_tag} class='#{@container_class}'>\n"
       # Glob the path and create tags for all images
       Dir.glob(full_path).each do |image|
         file = Pathname.new(image).basename
         src = File.join('/', @path, file)
-        source += "<#{@wrap_tag} class='#{@wrap_class}'>\n"
-        source += "<img src='#{src}' class='#{@class}'>\n"
+        source += "<#{@wrap_tag} class='#{@wrap_class}'>"
+        source += "<a href='#{src}' class='#{@class}'>#{file}</a>"
         source += "</#{@wrap_tag}>\n"
       end
       # Close it up 
@@ -83,4 +85,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('image_set', Jekyll::ImageSet)
+Liquid::Template.register_tag('file_set', Jekyll::FileSet)
