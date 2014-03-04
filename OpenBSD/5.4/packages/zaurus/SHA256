@@ -31,15 +31,18 @@ SHA256 (/usr/ports/packages/arm/all/gobject-introspection-1.36.0.tgz) = J8MoiNtK
 SHA256 (/usr/ports/packages/arm/all/gperf-3.0.4.tgz) = iIuKZcoF/3On9GvjIHsV+tNKf0jl8ZvrTDAx8/1dNn4=
 SHA256 (/usr/ports/packages/arm/all/groff-1.22.2p1.tgz) = OFZe1py09P/yBg4nRUbjEomJCicuL3na36258gHBYLE=
 SHA256 (/usr/ports/packages/arm/all/gstreamer1-1.0.8.tgz) = UpO9IQ0buFRw7SzbO1MDyrSHh3jyYLVUwmNSWRqTWxY=
+SHA256 (/usr/ports/packages/arm/all/gtar-1.26p1.tgz) = bskGib7BbNDS5rxIYZtH6oBmctoTc7cPEekPIRrnAEg=
 SHA256 (/usr/ports/packages/arm/all/guile-1.8.8p0.tgz) = ttHDJvPVseebYPp4M0gXf9YKbWSL74sgBI2cbeM0pvU=
 SHA256 (/usr/ports/packages/arm/all/hamlib-1.2.15.3.tgz) = N+VSXlxpRCN48qsnDQKgwE5mp0h8zyt0oJMaXp5Ghdk=
 SHA256 (/usr/ports/packages/arm/all/hamlib-python-1.2.15.3.tgz) = R0fhLYGLFtQGLTc5ehHY5j9EbnfINh58Pkr5w+zclS8=
 SHA256 (/usr/ports/packages/arm/all/hamlib-tcl-1.2.15.3.tgz) = x5xXyYrCfjtFFA9W8Uqo10oqxXcbIHOWzYSA3hkRcCs=
 SHA256 (/usr/ports/packages/arm/all/help2man-1.41.1.tgz) = lnBFAWlXLZqItcWT/JMOxlPfghCwNX2u3Kysh81dw/U=
 SHA256 (/usr/ports/packages/arm/all/intltool-0.50.2.tgz) = EIo2ezGTN9/0cr5rFT3GPlSz3kfdeFCv49Zn8hdtHVg=
+SHA256 (/usr/ports/packages/arm/all/irssi-0.8.15p3.tgz) = bRiIna50vdXiKJmGnpUT3SfU6vFFWjHMMspRqKSi8kE=
 SHA256 (/usr/ports/packages/arm/all/iso8879-1986p0.tgz) = aceoRvVt9VIkS0io8S4ATzT3QOLEPjYt84olJ7Mxq9A=
 SHA256 (/usr/ports/packages/arm/all/jasper-1.900.1p2.tgz) = 2mtAB77tgQCEjB33x398mf2pyh1dRKwW4LBqM33OlV4=
 SHA256 (/usr/ports/packages/arm/all/jpeg-9p0.tgz) = ioe/5IEzSiaL1FYwftlsxQ+72rrcKMRqkFjb3PnCP80=
+SHA256 (/usr/ports/packages/arm/all/libIDL-0.8.14p1.tgz) = RDfdQmhed+gnVlE4YX9HHoP2y0C3dwDEVvsSBmkwSNE=
 SHA256 (/usr/ports/packages/arm/all/libarchive-3.0.4p0.tgz) = 3hOAfwQao+NJu/oaVLnzhJPns7eKxlEviBD4AG8mgGI=
 SHA256 (/usr/ports/packages/arm/all/libelf-0.8.13p1.tgz) = t88o7ZuFb9tGgqzDPyhcSnMzeyuRiKI8jgGkqB7F97I=
 SHA256 (/usr/ports/packages/arm/all/libffi-3.0.9p5.tgz) = O/IUuRXiEZiB5bjnwX6M2JT2dcv46moR6SX0T5ceo4Q=
@@ -103,3 +106,4 @@ SHA256 (/usr/ports/packages/arm/all/wget-1.14p0.tgz) = APE+N0oJa0zAhOEKHAhRmwjy6
 SHA256 (/usr/ports/packages/arm/all/wmii-3.6p5.tgz) = A6X1Cv149LptdgKaJav7gMg1L+29cTeYlPHu1IpNyMQ=
 SHA256 (/usr/ports/packages/arm/all/xmlrpc-c-1.06.35.tgz) = uihZN7l+FZI5sSG4BkgFUmv09kx1uEk1L9zYhuLrzsQ=
 SHA256 (/usr/ports/packages/arm/all/xz-5.0.5.tgz) = l9xsXPZ1q5JLJhrO4mcWTRSVE2hGN1TzkVd7jDL9AN0=
+SHA256 (/usr/ports/packages/arm/all/zip-3.0.tgz) = PrZm4+mAUEbwEzM/ek6AhT4hc4jUQNA5KMwtPDPTKds=
