@@ -9,8 +9,8 @@ description: "OpenBSD packages for Zaurus"
 ## OpenBSD 5.4
 
 <ul>
-<li><a href="/OpenBSD/5.4/packages/zaurus/SHA256">SHA256</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/ORBit2-2.14.19p5.tgz">ORBit2-2.14.19p5.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/SHA256">SHA256</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/apr-1.4.6p1.tgz">apr-1.4.6p1.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/apr-util-1.4.1p2.tgz">apr-util-1.4.1p2.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/asciidoc-8.6.8.tgz">asciidoc-8.6.8.tgz</a></li>
@@ -62,6 +62,10 @@ description: "OpenBSD packages for Zaurus"
 <li><a href="/OpenBSD/5.4/packages/zaurus/groff-1.22.2p1.tgz">groff-1.22.2p1.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/gstreamer1-1.0.8.tgz">gstreamer1-1.0.8.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/gtar-1.26p1.tgz">gtar-1.26p1.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/gtk+2-2.24.20p1.tgz">gtk+2-2.24.20p1.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/gtk+3-3.8.2p3.tgz">gtk+3-3.8.2p3.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/gtk+3-cups-3.8.2p4.tgz">gtk+3-cups-3.8.2p4.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/gtk-update-icon-cache-2.24.20.tgz">gtk-update-icon-cache-2.24.20.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/guile-1.8.8p0.tgz">guile-1.8.8p0.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/hamlib-1.2.15.3.tgz">hamlib-1.2.15.3.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/hamlib-python-1.2.15.3.tgz">hamlib-python-1.2.15.3.tgz</a></li>
@@ -89,6 +93,7 @@ description: "OpenBSD packages for Zaurus"
 <li><a href="/OpenBSD/5.4/packages/zaurus/libltdl-2.4.2.tgz">libltdl-2.4.2.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/libmad-0.15.1bp3.tgz">libmad-0.15.1bp3.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/libmagic-5.11.tgz">libmagic-5.11.tgz</a></li>
+<li><a href="/OpenBSD/5.4/packages/zaurus/libnettle-2.7.1p0.tgz">libnettle-2.7.1p0.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/libogg-1.3.1.tgz">libogg-1.3.1.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/libsamplerate-0.1.7p1.tgz">libsamplerate-0.1.7p1.tgz</a></li>
 <li><a href="/OpenBSD/5.4/packages/zaurus/libsigsegv-2.10.tgz">libsigsegv-2.10.tgz</a></li>
